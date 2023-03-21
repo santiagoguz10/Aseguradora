@@ -1,0 +1,3 @@
+# Aseguradora
+
+Test de aseguradora
